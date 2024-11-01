@@ -1,0 +1,8 @@
+yt_dlp
+pydub
+crepe
+faiss-gpu
+omegaconf
+pyworld
+sentence_transformers
+demucs
